@@ -1,9 +1,10 @@
 #VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
-###Hololens 开发群：561889616
-###微信公众号：VRAR开发者乐园
-![](images/lee.jpg)
+###AR 开发者群：427199775
+###微信公众号：AR开发者
+
 ***
 ##精选视频教程
+- [Hololens 开发教程](http://edu.manew.com/course/204)
 - [独立开发者的VR游戏开发全过程](http://www.taikr.com/course/447)
 ![](images/1.jpg)
 - [VR小游戏 怪物塔防](http://www.taikr.com/course/379)
@@ -19,6 +20,7 @@
 ##各平台搭建
 - [VR系列教程 －－各平台开发环境搭建](http://toutiao.com/i6330030103044555266/)
 - [HTC Vive 开发环境搭建](http://www.360doc.com/content/16/0712/10/10408243_574901317.shtml)
+- [HTC Vive 详细视频教程（下载安装全教程）](http://v.youku.com/v_show/id_XMTc0MDgyNDE1Ng==.html?from=y1.7-1.2)
 - [Google CardBoard开发环境搭建1](http://blog.csdn.net/wuyt2008/article/details/50236211)
 - [Google CardBoard开发环境搭建2](http://blog.csdn.net/sunmc1204953974/article/details/50402331)
 - [Oculus 开发环境配置](http://blog.csdn.net/zhangyulin311/article/details/51320429)
@@ -32,6 +34,7 @@
 - [泰课在线](http://www.taikr.com/course/explore/VR?filter%5Btype%5D=all&filter%5Bprice%5D=all&filter%5BcurrentLevelId%5D=all&orderBy=latest)－－国内专业的Unity3D以及VRAR专业视频学习平台,上千门实时更新课程,供学员在线观看,为国内开发者提供最新、最全、最快的视频学习教程
 - [游戏蛮牛](http://edu.manew.com/course/explore/VR?filter%5Btype%5D=all&filter%5Bprice%5D=all&filter%5BcurrentLevelId%5D=all&orderBy=latest)－－游戏蛮牛旗下,国内最大的Unity3D专业视频学习平台,为国内开发者提供最新、最全、最快的视频学习教程
 - [我赢职场](http://www.wyzc.com/Course/Course/exploreAction/category/7964)
+
 ***
 ##VR 基础之unity开发网站
 - [慕课网](http://www.imooc.com/)－－慕课网(IMOOC)是国内最大的IT技能学习平台
@@ -58,6 +61,17 @@
 - [红尘不到](http://my.csdn.net/wuyt2008)
 - [MingChaoSun](http://my.csdn.net/sunmc1204953974)
 - [ajaxian](http://my.csdn.net/ejinxian)
+
+***
+##VR 资讯网站
+- [87870](http://www.87870.com/)--87870网站是国内Oculus rift、虚拟现实技术、虚拟现实游戏、虚拟现实眼镜等虚拟现实内容的第一平台,
+- [VR 之家](http://www.vrzhijia.com/)
+- [VR 兔](http://www.vr2.tv/)
+- [VR 资源社](http://www.vrzys.com/)
+- [百度VR](http://bbs.ivr.baidu.com/)－－百度VR论坛为Htc Vive、Oculus rift、索尼PlayStation VR、手机VR等虚拟现实爱好者打造交流社区,以VR眼镜虚拟现实内容为主,海量VR游戏、VR视频、VR技术、VR游戏软件
+- [腾讯VR](http://vr.tencent.com/)
+- [VR 村](http://www.vrcun.com/)
+- [蛙壳网](http://www.varkr.com/)
 
 ***
 ##CardBoard 开发文章
@@ -91,6 +105,7 @@
 
 ***
 ##Web VR 开发教程
+- [最全WebVR相关学习资源](http://www.toutiao.com/i6349060931078586881/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=5909861696&utm_medium=toutiao_ios)
 - [ VR开发 入门 使用Three.js 开发的WebVR demo](http://blog.csdn.net/ritterliu/article/details/51386980)
 - [10分钟教你完成一个虚拟现实WEB体验](http://mt.sohu.com/20151026/n424132314.shtml)
 - [一个简单的webVR体验 experience](http://www.open-open.com/lib/view/open1449986253359.html)
@@ -115,7 +130,9 @@
 - [36Kr：2016年虚拟现实行业研究报告（应用篇）](https://pan.baidu.com/s/1dF0t2pz)（提取码：7csa）
 - [关于VR的发展历史和未来，这6000字长文梳理得够清楚了！](https://pan.baidu.com/s/1qY4aN5E)(提取码：p2nb)
 - [电影和文学里的VR文化史，虚拟现实从业者必读](https://pan.baidu.com/s/1hsyR0Cs)(提取码：u7am)
-
+- [VR+娱乐类 总结](https://pan.baidu.com/s/1qYJBfCo)（提取码：dks5）
+- [VR+其他类 总结](https://pan.baidu.com/s/1gfiFH7t)（提取码：87vm）
+- [VR+垂直类 总结](https://pan.baidu.com/s/1dF3I2Dr)（提取码：nygv）
 ***
 ##VR 论文
 
@@ -136,6 +153,7 @@
 - [浅析VR在房地产领域的应用前景_刘成](https://pan.baidu.com/s/1o7GFSmA)(提取码：yhgs)
 - [基于VR的建筑物仿真与交互技术_张小萍](https://pan.baidu.com/s/1hr4GOuw)(提取码：zsfh)
 - [基于VR技术的虚拟教学应用研究_黄鑫](https://pan.baidu.com/s/1pLNFCuR)(提取码：nc8p)
+- [一种基于Web的虚拟现实VR设备展示技术的实现_叶琳](https://pan.baidu.com/s/1dFfvYNJ)(提取码：gun8)
 
 ***
 
